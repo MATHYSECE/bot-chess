@@ -1,0 +1,17 @@
+# Dependances externes, retelechargeables (voir LISEZMOI.md)
+moteurs_externes/
+outils_externes/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Resultats de tournois (decommenter pour les publier)
+parties/
+
+# Systeme
+Thumbs.db
+.DS_Store
