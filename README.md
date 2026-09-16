@@ -12,6 +12,8 @@ Le projet contient **deux choses distinctes** qu'il ne faut pas confondre :
 Les deux se substituent l'un à l'autre d'un clic dans l'interface, parce qu'ils
 parlent le même protocole.
 
+TEST
+
 ---
 
 ## Table des matières
